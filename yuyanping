@@ -1,0 +1,11 @@
+A.java
+public class A{
+    private int x;
+    public A(int x){
+    } 
+}
+b.java
+public class B{
+   public int add(int x,int y){
+   }
+}
